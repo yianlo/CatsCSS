@@ -1,0 +1,33 @@
+.footer {
+  color: #aaa;
+  font-size: 14px;
+  margin: 0 auto;
+  width: 900px;
+  height: 50px;
+  border: 1px solid #ccc;
+  border-top: 0px
+}
+
+.footer-copywrite{
+  float: left;
+  padding: 0px 20px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.footer-content{
+  padding: 0px 10px;
+  float: right;
+  line-height: 50px;
+}
+
+.footer-content li{
+  float: left;
+}
+.footer-content li > a {
+  padding: 0px 10px;
+}
+
+.footer-content li:hover{
+  color: black;
+}

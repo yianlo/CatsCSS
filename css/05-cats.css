@@ -1,0 +1,6 @@
+.content-header{
+  min-height: 200px;
+  background: url("../shared/cats.jpg") no-repeat;
+  background-size: cover;
+  position: relative;
+}
